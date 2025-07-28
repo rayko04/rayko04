@@ -1,4 +1,4 @@
-# Hey, I'm Raez Rayko (Rayyan)!
+# Hey, My name's Rayyan!
 
 I'm a CS student passionate about Linux, cybersecurity, and systems programming.  
 Currently exploring the depths of Bash scripting, Linux system administration, and building cool CLI tools.  
@@ -13,7 +13,7 @@ Currently exploring the depths of Bash scripting, Linux system administration, a
 | **CTF Notes**         | My notes and scripts from OverTheWire wargames |
 | A record of my studies|One-liner Bash tools and productivity hacks             |
 
-> Check out my pinned repositories below! 👇
+> Check out my pinned repositories below! 
 
 ---
 
@@ -50,8 +50,8 @@ Currently exploring the depths of Bash scripting, Linux system administration, a
 - Email: `mrayyanadeel4@gmail.com` 
 
 ---
-> _"Learning by breaking, fixing, scripting."_ 🛠️
 
 
 ![Raez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayko04&show_icons=true&theme=radical)
 
+> _"Learning by breaking, fixing, scripting."_ 🛠️
